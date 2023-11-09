@@ -21,7 +21,7 @@ git clone  https://github.com/4GeeksAcademy/vanillajs-hello
 
 1. Crea una función que genere una lista de cartas al azar.
 1. Permite que el usuario especifique cuántas cartas aleatorias debe generar el sitio web utilizando una entrada de texto.
-2. Agregue un botón de "sorteo" que, al hacer clic, hace que esas cartas en el sitio web sean hermosas.
+2. Agregue un botón de "sorteo" que, al hacer clic, represente esas cartas en el sitio web de una manera bonita.
 3. Agregue un botón de "clasificación" que ordene las tarjetas usando el algoritmo de clasificación `selection`.
 4. Guarde todos los cambios difíciles de realizar al ordenar la lista de tareas en una nuevo array.
 5. Muestra el registro completo de cambios uno encima del otro.
