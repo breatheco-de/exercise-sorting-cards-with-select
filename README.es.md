@@ -23,7 +23,7 @@ git clone  https://github.com/4GeeksAcademy/vanillajs-hello
 1. Permite que el usuario especifique cuántas cartas aleatorias debe generar el sitio web utilizando una entrada de texto.
 2. Agregue un botón de "sorteo" que, al hacer clic, hace que esas cartas en el sitio web sean hermosas.
 3. Agregue un botón de "clasificación" que ordene las tarjetas usando el algoritmo de clasificación `selection`.
-4. Guarde todos los cambios difíciles de realizar al ordenar la lista de tareas en una nuevo array.
+4. Guarde todos los cambios que tuvo que realizar al ordenar la lista de tareas en una nuevo array.
 5. Muestra el registro completo de cambios uno encima del otro.
 
 Así debiera verse tu aplicación:
