@@ -4,6 +4,7 @@
 	"status": "published",
 	"solution": "https://jsfiddle.net/BreatheCode/8c36nrk5/7/",
 	"duration" : 6,
+	"template_url": "https://github.com/4GeeksAcademy/vanillajs-hello",
 	"difficulty": "intermediate",
 	"technologies": ["vanilla.js", "javascript", "html/css"],
 	"syntax": "vanilla.js",
