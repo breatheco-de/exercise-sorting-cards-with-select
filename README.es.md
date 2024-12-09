@@ -5,6 +5,8 @@
 El "Algoritmo de Selección" es también otro ejemplo simple de cómo funcionan las computadoras al ordenar la lista de cosas. Aquí hay una explicación de 5 minutos sobre cómo funciona el algoritmo de selección:
 [https://www.youtube.com/watch?v=g-PGLbMth_g](https://www.youtube.com/watch?v=g-PGLbMth_g)
 
+<onlyfor saas="false" withBanner="false">
+ 
 ## 🌱  Cómo iniciar este proyecto
 
  No clones este repositorio. El primer paso para comenzar a codificar es clonar el [vanillajs boilerplate](https://github.com/4GeeksAcademy/vanillajs-hello) en tu computador local o con Gitpod.
@@ -16,6 +18,8 @@ b) Si trabajas localmente, escribe el siguiente comando en tu terminal:
 git clone  https://github.com/4GeeksAcademy/vanillajs-hello
 ```
 💡 Importante: Recuerda actualizar el `remote` del proyecto con el de tu repositorio usando `git remote set-url origin <your new url>`, y luego guardar tu código en tu nuevo repositorio usando `add`, `commit` y `push`.
+
+</onlyfor>
 
 ## Instrucciones
 
