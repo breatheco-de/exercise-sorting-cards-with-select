@@ -6,6 +6,8 @@ The "Selection Sorting Algorithm" is also another simple example of how computer
 
 https://github.com/breatheco-de/exercise-sorting-cards-with-bubble/pull/3
 
+<onlyfor saas="false" withBanner="false">
+    
 ## 🌱  How to start this project
 
 Do not clone this repository.
@@ -18,6 +20,7 @@ b) If working locally, type the following command from your command line: `$ git
 
 💡 Important: Remember to create a new repository, update the remote (`git remote set-url origin <your new url>`), and upload the code to your new repository using `add`, `commit` and `push`.
 
+</onlyfor>
 
 ## 📝Instructions
 
