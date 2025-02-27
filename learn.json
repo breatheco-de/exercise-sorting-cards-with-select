@@ -1,5 +1,8 @@
 {
-	"title" : "Sorting Cards with Select",
+	"title": {
+		"us": "Sorting Cards with Select",
+		"es": "Ordenando Cartas con Selección"
+	},
 	"slug" : "sorting-cards-with-select",
 	"status": "published",
 	"solution": "https://jsfiddle.net/BreatheCode/8c36nrk5/7/",
@@ -10,7 +13,10 @@
 	"syntax": "vanilla.js",
 	"preview": "https://raw.githubusercontent.com/breatheco-de/exercise-sorting-cards-with-select/master/thumb.png",
 	"translations": ["es", "us"],
-	"description" : "Practice building algorithms by doing a selection-sorting algorithm and displaying it on a website",
+	"description": {
+		"us": "Practice building algorithms by doing a selection-sorting algorithm and displaying it on a website.",
+		"es": "Practica la construcción de algoritmos implementando el ordenamiento por selección y mostrándolo en un sitio web."
+	},
 	"talents": [
 		{ "badge": "identator", "points": 6 },
 		{ "badge": "tag-master", "points": 3 },
