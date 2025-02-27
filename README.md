@@ -10,13 +10,15 @@ https://github.com/breatheco-de/exercise-sorting-cards-with-bubble/pull/3
     
 ## 🌱  How to start this project
 
-Do not clone this repository.
+Do not clone this repository because we are going to be using a different template.
 
-The first step to start coding is cloning the [vanillajs boilerplate](https://github.com/4GeeksAcademy/vanillajs-hello) on your local computer or opening it using gitpod.
+We recommend opening the `vanillajs boilerplate` template, using a provisioning tool like [Codespaces](https://4geeks.com/lesson/what-is-github-codespaces) (recommended) or [Gitpod](https://4geeks.com/lesson/how-to-use-gitpod). Alternatively, you can [clone the GitHub repository](https://4geeks.com/how-to/github-clone-repository) on your local computer using the `git clone` command.
 
-a) If using Gitpod (recommended) you can clone the boilerplate by [clicking here](https://github.com/4GeeksAcademy/vanillajs-hello).
+This is the repository you need to open or clone:
 
-b) If working locally, type the following command from your command line: `$ git clone https://github.com/4GeeksAcademy/vanillajs-hello`.
+```sh
+git clone  https://github.com/4GeeksAcademy/vanillajs-hello
+```
 
 💡 Important: Remember to create a new repository, update the remote (`git remote set-url origin <your new url>`), and upload the code to your new repository using `add`, `commit` and `push`.
 
